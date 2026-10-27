@@ -1,0 +1,19 @@
+[multimodal_physical_efficientnet_b0] train 1565 (107 storms)  val 248 (20)  test 193 (15)  device cpu
+[multimodal_physical_efficientnet_b0] epoch   1  train_loss 0.4496  val RMSE 10.53  MAE 8.23  R2 0.753  254s  *
+[multimodal_physical_efficientnet_b0] epoch   2  train_loss 0.2408  val RMSE 9.70  MAE 7.36  R2 0.790  166s  *
+[multimodal_physical_efficientnet_b0] epoch   3  train_loss 0.1609  val RMSE 5.24  MAE 4.01  R2 0.939  166s  *
+[multimodal_physical_efficientnet_b0] epoch   4  train_loss 0.1344  val RMSE 4.41  MAE 3.51  R2 0.957  166s  *
+[multimodal_physical_efficientnet_b0] epoch   5  train_loss 0.1438  val RMSE 3.82  MAE 3.05  R2 0.968  184s  *
+[multimodal_physical_efficientnet_b0] epoch   6  train_loss 0.1011  val RMSE 4.06  MAE 3.21  R2 0.963  182s
+[multimodal_physical_efficientnet_b0] epoch   7  train_loss 0.1094  val RMSE 3.48  MAE 2.67  R2 0.973  275s  *
+[multimodal_physical_efficientnet_b0] epoch   8  train_loss 0.1148  val RMSE 4.10  MAE 3.17  R2 0.963  231s
+[multimodal_physical_efficientnet_b0] epoch   9  train_loss 0.1011  val RMSE 3.33  MAE 2.57  R2 0.975  193s  *
+[multimodal_physical_efficientnet_b0] epoch  10  train_loss 0.1008  val RMSE 4.25  MAE 3.20  R2 0.960  195s
+[multimodal_physical_efficientnet_b0] epoch  11  train_loss 0.0936  val RMSE 3.86  MAE 2.96  R2 0.967  207s
+[multimodal_physical_efficientnet_b0] epoch  12  train_loss 0.1051  val RMSE 3.95  MAE 3.16  R2 0.965  249s
+[multimodal_physical_efficientnet_b0] epoch  13  train_loss 0.0923  val RMSE 3.37  MAE 2.52  R2 0.975  233s
+[multimodal_physical_efficientnet_b0] epoch  14  train_loss 0.0920  val RMSE 4.43  MAE 3.25  R2 0.956  239s
+[multimodal_physical_efficientnet_b0] epoch  15  train_loss 0.0865  val RMSE 3.99  MAE 2.96  R2 0.965  247s
+[multimodal_physical_efficientnet_b0] early stop (no val improvement for 6 epochs)
+[multimodal_physical_efficientnet_b0] val  {'RMSE': 3.3325082612703385, 'MAE': 2.573646222391436, 'R2': 0.9752772500301415, 'Bias': 0.27804691560806766, 'N': 248}
+[multimodal_physical_efficientnet_b0] test {'RMSE': 4.105459042773767, 'MAE': 3.365687404889517, 'R2': 0.783149965489756, 'Bias': 1.0852622491708073, 'N': 193}

@@ -1,0 +1,7 @@
+started   2026-10-26 18:29:10 IST
+host      karthik-reddy-b
+python    3.12.7
+torch     2.9.1+cpu | torchvision 0.24.1+cpu
+device    cpu Intel64 Family 6 Model 154 Stepping 4, GenuineIntel threads 10
+crops     1563 in data/images
+finished  2026-10-26 20:16:55 IST

@@ -1,0 +1,10 @@
+== 00/12 UTC 20:19:03
+== 06/18 UTC 20:19:04
+== done 23:11:50: 2006 crops in data/images
+== download done, 2006 crops
+                                   Model  Epochs run  Val RMSE  Val MAE   Val R2  Test 2025 RMSE  Test 2025 MAE  Test 2025 R2  Test 2025 Bias
+                  Tabular MLP [physical]         208  2.859074 2.222960 0.981803        3.359689       2.642233      0.854777        1.540076
+               Tabular MLP [no_pressure]          98 15.113374 8.786663 0.491516       18.740327      12.149661     -3.518459       10.500504
+   Multimodal EfficientNet-B0 [physical]          15  3.332508 2.573646 0.975277        4.105459       3.365687      0.783150        1.085262
+Multimodal EfficientNet-B0 [no_pressure]          22  9.933125 6.885858 0.780353        8.493086       6.585585      0.071959        4.336146
+wrote C:\Users\bobbi\Desktop\CCVR\cyclone-multimodal\outputs\training_report\report.html

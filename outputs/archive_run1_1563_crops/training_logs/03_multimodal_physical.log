@@ -1,0 +1,26 @@
+[multimodal_physical_efficientnet_b0] train 1186 (107 storms)  val 184 (20)  test 193 (15)  device cpu
+[multimodal_physical_efficientnet_b0] epoch   1  train_loss 0.4910  val RMSE 13.30  MAE 10.30  R2 0.555  290s  *
+[multimodal_physical_efficientnet_b0] epoch   2  train_loss 0.2508  val RMSE 8.63  MAE 6.59  R2 0.813  194s  *
+[multimodal_physical_efficientnet_b0] epoch   3  train_loss 0.1756  val RMSE 7.02  MAE 5.48  R2 0.876  193s  *
+[multimodal_physical_efficientnet_b0] epoch   4  train_loss 0.1694  val RMSE 5.95  MAE 4.64  R2 0.911  173s  *
+[multimodal_physical_efficientnet_b0] epoch   5  train_loss 0.1328  val RMSE 4.39  MAE 3.28  R2 0.951  193s  *
+[multimodal_physical_efficientnet_b0] epoch   6  train_loss 0.1160  val RMSE 6.08  MAE 4.71  R2 0.907  189s
+[multimodal_physical_efficientnet_b0] epoch   7  train_loss 0.1036  val RMSE 3.77  MAE 3.06  R2 0.964  159s  *
+[multimodal_physical_efficientnet_b0] epoch   8  train_loss 0.1136  val RMSE 4.51  MAE 3.49  R2 0.949  193s
+[multimodal_physical_efficientnet_b0] epoch   9  train_loss 0.0864  val RMSE 4.18  MAE 3.29  R2 0.956  194s
+[multimodal_physical_efficientnet_b0] epoch  10  train_loss 0.1150  val RMSE 4.13  MAE 3.28  R2 0.957  193s
+[multimodal_physical_efficientnet_b0] epoch  11  train_loss 0.0876  val RMSE 3.79  MAE 3.04  R2 0.964  176s
+[multimodal_physical_efficientnet_b0] epoch  12  train_loss 0.1029  val RMSE 3.81  MAE 2.95  R2 0.963  193s
+[multimodal_physical_efficientnet_b0] epoch  13  train_loss 0.0983  val RMSE 3.64  MAE 2.75  R2 0.967  194s  *
+[multimodal_physical_efficientnet_b0] epoch  14  train_loss 0.0949  val RMSE 3.38  MAE 2.66  R2 0.971  192s  *
+[multimodal_physical_efficientnet_b0] epoch  15  train_loss 0.0955  val RMSE 4.79  MAE 3.47  R2 0.942  193s
+[multimodal_physical_efficientnet_b0] epoch  16  train_loss 0.1045  val RMSE 3.18  MAE 2.52  R2 0.975  125s  *
+[multimodal_physical_efficientnet_b0] epoch  17  train_loss 0.0721  val RMSE 3.51  MAE 2.73  R2 0.969  100s
+[multimodal_physical_efficientnet_b0] epoch  18  train_loss 0.0760  val RMSE 3.36  MAE 2.52  R2 0.972  181s
+[multimodal_physical_efficientnet_b0] epoch  19  train_loss 0.0984  val RMSE 3.40  MAE 2.61  R2 0.971  186s
+[multimodal_physical_efficientnet_b0] epoch  20  train_loss 0.0810  val RMSE 5.12  MAE 4.22  R2 0.934  103s
+[multimodal_physical_efficientnet_b0] epoch  21  train_loss 0.0842  val RMSE 6.34  MAE 4.30  R2 0.899  133s
+[multimodal_physical_efficientnet_b0] epoch  22  train_loss 0.0989  val RMSE 6.60  MAE 4.36  R2 0.890  112s
+[multimodal_physical_efficientnet_b0] early stop (no val improvement for 6 epochs)
+[multimodal_physical_efficientnet_b0] val  {'RMSE': 3.1800389831930156, 'MAE': 2.516077404436858, 'R2': 0.9745409125167503, 'Bias': 0.7660732165626858, 'N': 184}
+[multimodal_physical_efficientnet_b0] test {'RMSE': 3.8796610989095948, 'MAE': 3.253165368589095, 'R2': 0.8063472679749673, 'Bias': 1.481712637787656, 'N': 193}

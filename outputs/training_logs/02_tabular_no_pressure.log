@@ -1,0 +1,102 @@
+[tabular_no_pressure] train 1565 (107 storms)  val 248 (20)  test 193 (15)  device cpu
+[tabular_no_pressure] epoch   1  train_loss 0.7094  val RMSE 23.18  MAE 18.96  R2 -0.197  0s  *
+[tabular_no_pressure] epoch   2  train_loss 0.6911  val RMSE 23.88  MAE 19.77  R2 -0.269  0s
+[tabular_no_pressure] epoch   3  train_loss 0.6680  val RMSE 23.78  MAE 19.73  R2 -0.259  0s
+[tabular_no_pressure] epoch   4  train_loss 0.6436  val RMSE 22.86  MAE 18.72  R2 -0.163  0s  *
+[tabular_no_pressure] epoch   5  train_loss 0.5914  val RMSE 21.66  MAE 17.25  R2 -0.045  0s  *
+[tabular_no_pressure] epoch   6  train_loss 0.5566  val RMSE 20.69  MAE 15.77  R2 0.047  0s  *
+[tabular_no_pressure] epoch   7  train_loss 0.5076  val RMSE 20.10  MAE 14.67  R2 0.100  0s  *
+[tabular_no_pressure] epoch   8  train_loss 0.4749  val RMSE 19.75  MAE 13.78  R2 0.131  0s  *
+[tabular_no_pressure] epoch   9  train_loss 0.4558  val RMSE 19.32  MAE 12.89  R2 0.169  0s  *
+[tabular_no_pressure] epoch  10  train_loss 0.4237  val RMSE 18.78  MAE 11.86  R2 0.215  0s  *
+[tabular_no_pressure] epoch  11  train_loss 0.3890  val RMSE 18.46  MAE 11.51  R2 0.241  0s  *
+[tabular_no_pressure] epoch  12  train_loss 0.3756  val RMSE 18.22  MAE 11.28  R2 0.261  0s  *
+[tabular_no_pressure] epoch  13  train_loss 0.3673  val RMSE 18.15  MAE 11.40  R2 0.267  0s  *
+[tabular_no_pressure] epoch  14  train_loss 0.3615  val RMSE 17.84  MAE 10.94  R2 0.292  0s  *
+[tabular_no_pressure] epoch  15  train_loss 0.3389  val RMSE 17.69  MAE 10.94  R2 0.303  0s  *
+[tabular_no_pressure] epoch  16  train_loss 0.3314  val RMSE 17.43  MAE 10.58  R2 0.324  0s  *
+[tabular_no_pressure] epoch  17  train_loss 0.3255  val RMSE 17.39  MAE 10.67  R2 0.327  0s  *
+[tabular_no_pressure] epoch  18  train_loss 0.3258  val RMSE 17.43  MAE 10.71  R2 0.324  0s
+[tabular_no_pressure] epoch  19  train_loss 0.3316  val RMSE 17.25  MAE 10.59  R2 0.337  0s  *
+[tabular_no_pressure] epoch  20  train_loss 0.3098  val RMSE 17.17  MAE 10.42  R2 0.344  0s  *
+[tabular_no_pressure] epoch  21  train_loss 0.3054  val RMSE 16.98  MAE 10.00  R2 0.358  0s  *
+[tabular_no_pressure] epoch  22  train_loss 0.2980  val RMSE 17.01  MAE 10.22  R2 0.356  0s
+[tabular_no_pressure] epoch  23  train_loss 0.2869  val RMSE 16.87  MAE 10.06  R2 0.367  0s  *
+[tabular_no_pressure] epoch  24  train_loss 0.2853  val RMSE 16.70  MAE 10.03  R2 0.379  0s  *
+[tabular_no_pressure] epoch  25  train_loss 0.2764  val RMSE 16.76  MAE 10.09  R2 0.375  0s
+[tabular_no_pressure] epoch  26  train_loss 0.2813  val RMSE 16.86  MAE 10.28  R2 0.367  0s
+[tabular_no_pressure] epoch  27  train_loss 0.2750  val RMSE 16.15  MAE 9.60  R2 0.419  0s  *
+[tabular_no_pressure] epoch  28  train_loss 0.2713  val RMSE 16.13  MAE 9.61  R2 0.421  0s  *
+[tabular_no_pressure] epoch  29  train_loss 0.2692  val RMSE 15.99  MAE 9.66  R2 0.430  0s  *
+[tabular_no_pressure] epoch  30  train_loss 0.2633  val RMSE 16.14  MAE 9.75  R2 0.420  0s
+[tabular_no_pressure] epoch  31  train_loss 0.2603  val RMSE 16.20  MAE 9.93  R2 0.416  0s
+[tabular_no_pressure] epoch  32  train_loss 0.2625  val RMSE 16.34  MAE 9.80  R2 0.406  0s
+[tabular_no_pressure] epoch  33  train_loss 0.2526  val RMSE 16.16  MAE 9.81  R2 0.419  0s
+[tabular_no_pressure] epoch  34  train_loss 0.2480  val RMSE 16.39  MAE 10.09  R2 0.402  0s
+[tabular_no_pressure] epoch  35  train_loss 0.2526  val RMSE 16.04  MAE 9.60  R2 0.427  0s
+[tabular_no_pressure] epoch  36  train_loss 0.2395  val RMSE 16.09  MAE 9.61  R2 0.424  0s
+[tabular_no_pressure] epoch  37  train_loss 0.2509  val RMSE 16.08  MAE 9.71  R2 0.424  0s
+[tabular_no_pressure] epoch  38  train_loss 0.2434  val RMSE 16.75  MAE 10.12  R2 0.375  0s
+[tabular_no_pressure] epoch  39  train_loss 0.2468  val RMSE 17.01  MAE 10.09  R2 0.356  0s
+[tabular_no_pressure] epoch  40  train_loss 0.2406  val RMSE 16.44  MAE 9.83  R2 0.398  0s
+[tabular_no_pressure] epoch  41  train_loss 0.2416  val RMSE 16.51  MAE 10.08  R2 0.393  0s
+[tabular_no_pressure] epoch  42  train_loss 0.2387  val RMSE 16.07  MAE 9.51  R2 0.425  0s
+[tabular_no_pressure] epoch  43  train_loss 0.2388  val RMSE 16.54  MAE 9.78  R2 0.391  0s
+[tabular_no_pressure] epoch  44  train_loss 0.2453  val RMSE 16.87  MAE 9.98  R2 0.366  0s
+[tabular_no_pressure] epoch  45  train_loss 0.2265  val RMSE 16.52  MAE 9.85  R2 0.393  0s
+[tabular_no_pressure] epoch  46  train_loss 0.2308  val RMSE 16.68  MAE 10.11  R2 0.381  0s
+[tabular_no_pressure] epoch  47  train_loss 0.2306  val RMSE 16.34  MAE 9.98  R2 0.406  0s
+[tabular_no_pressure] epoch  48  train_loss 0.2285  val RMSE 15.94  MAE 9.59  R2 0.435  0s  *
+[tabular_no_pressure] epoch  49  train_loss 0.2248  val RMSE 16.13  MAE 9.80  R2 0.421  0s
+[tabular_no_pressure] epoch  50  train_loss 0.2264  val RMSE 16.69  MAE 9.93  R2 0.380  0s
+[tabular_no_pressure] epoch  51  train_loss 0.2253  val RMSE 16.07  MAE 9.55  R2 0.425  0s
+[tabular_no_pressure] epoch  52  train_loss 0.2140  val RMSE 16.17  MAE 9.74  R2 0.418  0s
+[tabular_no_pressure] epoch  53  train_loss 0.2218  val RMSE 15.98  MAE 9.36  R2 0.431  0s
+[tabular_no_pressure] epoch  54  train_loss 0.2244  val RMSE 15.80  MAE 9.37  R2 0.444  0s  *
+[tabular_no_pressure] epoch  55  train_loss 0.2207  val RMSE 16.26  MAE 9.62  R2 0.411  0s
+[tabular_no_pressure] epoch  56  train_loss 0.2227  val RMSE 16.15  MAE 9.97  R2 0.420  0s
+[tabular_no_pressure] epoch  57  train_loss 0.2105  val RMSE 16.22  MAE 9.79  R2 0.414  0s
+[tabular_no_pressure] epoch  58  train_loss 0.2144  val RMSE 15.11  MAE 8.79  R2 0.492  0s  *
+[tabular_no_pressure] epoch  59  train_loss 0.2182  val RMSE 16.14  MAE 9.86  R2 0.420  0s
+[tabular_no_pressure] epoch  60  train_loss 0.2082  val RMSE 15.57  MAE 9.55  R2 0.461  0s
+[tabular_no_pressure] epoch  61  train_loss 0.2105  val RMSE 15.84  MAE 9.60  R2 0.442  0s
+[tabular_no_pressure] epoch  62  train_loss 0.2102  val RMSE 16.01  MAE 9.52  R2 0.429  0s
+[tabular_no_pressure] epoch  63  train_loss 0.2089  val RMSE 15.96  MAE 9.75  R2 0.433  0s
+[tabular_no_pressure] epoch  64  train_loss 0.2143  val RMSE 16.52  MAE 10.07  R2 0.393  0s
+[tabular_no_pressure] epoch  65  train_loss 0.2089  val RMSE 16.02  MAE 9.79  R2 0.429  0s
+[tabular_no_pressure] epoch  66  train_loss 0.2048  val RMSE 16.05  MAE 9.69  R2 0.426  0s
+[tabular_no_pressure] epoch  67  train_loss 0.2080  val RMSE 16.05  MAE 9.64  R2 0.427  0s
+[tabular_no_pressure] epoch  68  train_loss 0.1999  val RMSE 16.27  MAE 9.87  R2 0.411  0s
+[tabular_no_pressure] epoch  69  train_loss 0.2072  val RMSE 16.27  MAE 9.81  R2 0.411  0s
+[tabular_no_pressure] epoch  70  train_loss 0.2039  val RMSE 15.95  MAE 9.51  R2 0.434  0s
+[tabular_no_pressure] epoch  71  train_loss 0.2085  val RMSE 16.42  MAE 10.03  R2 0.400  0s
+[tabular_no_pressure] epoch  72  train_loss 0.2005  val RMSE 15.79  MAE 9.65  R2 0.445  0s
+[tabular_no_pressure] epoch  73  train_loss 0.1983  val RMSE 16.27  MAE 9.88  R2 0.411  0s
+[tabular_no_pressure] epoch  74  train_loss 0.2004  val RMSE 16.26  MAE 10.03  R2 0.412  0s
+[tabular_no_pressure] epoch  75  train_loss 0.1943  val RMSE 15.58  MAE 9.54  R2 0.460  0s
+[tabular_no_pressure] epoch  76  train_loss 0.2039  val RMSE 15.93  MAE 9.55  R2 0.435  0s
+[tabular_no_pressure] epoch  77  train_loss 0.1921  val RMSE 15.69  MAE 9.49  R2 0.452  0s
+[tabular_no_pressure] epoch  78  train_loss 0.2024  val RMSE 15.69  MAE 9.57  R2 0.452  0s
+[tabular_no_pressure] epoch  79  train_loss 0.1993  val RMSE 15.50  MAE 9.09  R2 0.465  0s
+[tabular_no_pressure] epoch  80  train_loss 0.2012  val RMSE 15.34  MAE 9.01  R2 0.476  0s
+[tabular_no_pressure] epoch  81  train_loss 0.1956  val RMSE 15.72  MAE 9.54  R2 0.450  0s
+[tabular_no_pressure] epoch  82  train_loss 0.1884  val RMSE 15.17  MAE 9.03  R2 0.488  0s
+[tabular_no_pressure] epoch  83  train_loss 0.1981  val RMSE 15.71  MAE 9.79  R2 0.450  0s
+[tabular_no_pressure] epoch  84  train_loss 0.1862  val RMSE 15.83  MAE 9.81  R2 0.442  0s
+[tabular_no_pressure] epoch  85  train_loss 0.1980  val RMSE 15.78  MAE 9.73  R2 0.446  0s
+[tabular_no_pressure] epoch  86  train_loss 0.1905  val RMSE 15.69  MAE 9.92  R2 0.452  0s
+[tabular_no_pressure] epoch  87  train_loss 0.1918  val RMSE 15.85  MAE 9.72  R2 0.441  0s
+[tabular_no_pressure] epoch  88  train_loss 0.1820  val RMSE 15.79  MAE 9.41  R2 0.445  0s
+[tabular_no_pressure] epoch  89  train_loss 0.1900  val RMSE 15.92  MAE 9.96  R2 0.435  0s
+[tabular_no_pressure] epoch  90  train_loss 0.1989  val RMSE 16.00  MAE 9.59  R2 0.430  0s
+[tabular_no_pressure] epoch  91  train_loss 0.1849  val RMSE 16.07  MAE 9.64  R2 0.425  0s
+[tabular_no_pressure] epoch  92  train_loss 0.1941  val RMSE 15.55  MAE 9.38  R2 0.462  0s
+[tabular_no_pressure] epoch  93  train_loss 0.1862  val RMSE 15.86  MAE 9.76  R2 0.440  0s
+[tabular_no_pressure] epoch  94  train_loss 0.1931  val RMSE 15.66  MAE 9.66  R2 0.454  0s
+[tabular_no_pressure] epoch  95  train_loss 0.1855  val RMSE 15.67  MAE 9.32  R2 0.453  0s
+[tabular_no_pressure] epoch  96  train_loss 0.1865  val RMSE 15.52  MAE 9.33  R2 0.464  0s
+[tabular_no_pressure] epoch  97  train_loss 0.1838  val RMSE 15.74  MAE 9.62  R2 0.448  0s
+[tabular_no_pressure] epoch  98  train_loss 0.1837  val RMSE 16.06  MAE 9.84  R2 0.426  0s
+[tabular_no_pressure] early stop (no val improvement for 40 epochs)
+[tabular_no_pressure] val  {'RMSE': 15.113374256632856, 'MAE': 8.78666328614758, 'R2': 0.4915161294405245, 'Bias': -0.5563781953627064, 'N': 248}
+[tabular_no_pressure] test {'RMSE': 18.74032680789502, 'MAE': 12.14966089120183, 'R2': -3.5184592326734023, 'Bias': 10.500504389945707, 'N': 193}

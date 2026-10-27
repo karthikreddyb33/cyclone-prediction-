@@ -1,0 +1,4 @@
+2006 fixes need SST
+C:\Users\bobbi\Desktop\CCVR\cyclone-multimodal\scripts\fetch_sst.py:60: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  out = pd.concat([have, new], ignore_index=True)
+saved 2006 rows -> C:\Users\bobbi\Desktop\CCVR\cyclone-multimodal\data\processed\sst.csv; missing 97; range 23.9-32.2 C

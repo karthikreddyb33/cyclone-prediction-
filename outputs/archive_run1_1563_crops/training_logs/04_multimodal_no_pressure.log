@@ -1,0 +1,21 @@
+[multimodal_no_pressure_efficientnet_b0] train 1186 (107 storms)  val 184 (20)  test 193 (15)  device cpu
+[multimodal_no_pressure_efficientnet_b0] epoch   1  train_loss 0.6293  val RMSE 18.97  MAE 15.57  R2 0.094  176s  *
+[multimodal_no_pressure_efficientnet_b0] epoch   2  train_loss 0.3645  val RMSE 13.07  MAE 9.66  R2 0.570  148s  *
+[multimodal_no_pressure_efficientnet_b0] epoch   3  train_loss 0.2975  val RMSE 14.51  MAE 10.39  R2 0.470  135s
+[multimodal_no_pressure_efficientnet_b0] epoch   4  train_loss 0.2612  val RMSE 10.62  MAE 7.10  R2 0.716  117s  *
+[multimodal_no_pressure_efficientnet_b0] epoch   5  train_loss 0.2137  val RMSE 11.92  MAE 8.26  R2 0.642  114s
+[multimodal_no_pressure_efficientnet_b0] epoch   6  train_loss 0.2157  val RMSE 10.97  MAE 7.17  R2 0.697  113s
+[multimodal_no_pressure_efficientnet_b0] epoch   7  train_loss 0.1947  val RMSE 11.10  MAE 7.26  R2 0.690  112s
+[multimodal_no_pressure_efficientnet_b0] epoch   8  train_loss 0.1813  val RMSE 11.76  MAE 6.80  R2 0.652  115s
+[multimodal_no_pressure_efficientnet_b0] epoch   9  train_loss 0.1674  val RMSE 10.60  MAE 7.06  R2 0.717  136s  *
+[multimodal_no_pressure_efficientnet_b0] epoch  10  train_loss 0.1781  val RMSE 9.98  MAE 6.17  R2 0.749  134s  *
+[multimodal_no_pressure_efficientnet_b0] epoch  11  train_loss 0.1570  val RMSE 9.41  MAE 5.93  R2 0.777  113s  *
+[multimodal_no_pressure_efficientnet_b0] epoch  12  train_loss 0.1526  val RMSE 10.07  MAE 6.18  R2 0.745  131s
+[multimodal_no_pressure_efficientnet_b0] epoch  13  train_loss 0.1563  val RMSE 10.01  MAE 6.75  R2 0.748  123s
+[multimodal_no_pressure_efficientnet_b0] epoch  14  train_loss 0.1403  val RMSE 10.79  MAE 7.52  R2 0.707  115s
+[multimodal_no_pressure_efficientnet_b0] epoch  15  train_loss 0.1427  val RMSE 9.76  MAE 6.38  R2 0.760  196s
+[multimodal_no_pressure_efficientnet_b0] epoch  16  train_loss 0.1457  val RMSE 9.60  MAE 5.93  R2 0.768  137s
+[multimodal_no_pressure_efficientnet_b0] epoch  17  train_loss 0.1418  val RMSE 9.74  MAE 6.47  R2 0.761  189s
+[multimodal_no_pressure_efficientnet_b0] early stop (no val improvement for 6 epochs)
+[multimodal_no_pressure_efficientnet_b0] val  {'RMSE': 9.409008705349422, 'MAE': 5.93265844428021, 'R2': 0.7771227778304652, 'Bias': 1.4333432031714397, 'N': 184}
+[multimodal_no_pressure_efficientnet_b0] test {'RMSE': 7.20626875757307, 'MAE': 5.303097601381609, 'R2': 0.33187617605760755, 'Bias': 2.480255206014208, 'N': 193}

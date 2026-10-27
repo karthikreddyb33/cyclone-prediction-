@@ -1,0 +1,30 @@
+
+2025 TEST SET  -  193 fixes from 15 systems (actual wind 20-60 kt)
+
+| Model                                      |   RMSE |    MAE |     R2 |   Bias |   N |
+|:-------------------------------------------|-------:|-------:|-------:|-------:|----:|
+| Tabular MLP [physical]                     |  3.360 |  2.613 |  0.855 |  1.018 | 193 |
+| Multimodal (efficientnet_b0) [physical]    |  3.880 |  3.253 |  0.806 |  1.482 | 193 |
+| Multimodal (efficientnet_b0) [no_pressure] |  7.206 |  5.303 |  0.332 |  2.480 | 193 |
+| Tabular MLP [no_pressure]                  | 21.777 | 13.835 | -5.101 | 11.902 | 193 |
+
+Per-system MAE (kt):
+                  fixes  peak_kt  MAE Multimodal (efficientnet_b0) [no_pressure]  MAE Multimodal (efficientnet_b0) [physical]  MAE Tabular MLP [no_pressure]  MAE Tabular MLP [physical]
+storm_id name                                                                                                                                                                           
+2025_01  UNNAMED    4.0     25.0                                             1.6                                          3.1                            3.7                         3.5
+2025_02  UNNAMED    6.0     30.0                                             5.6                                          3.2                            4.0                         1.8
+2025_03  UNNAMED    4.0     20.0                                             5.3                                          4.5                            6.6                         3.5
+2025_04  UNNAMED    3.0     20.0                                             3.5                                          3.0                            5.5                         3.8
+2025_05  UNNAMED   12.0     25.0                                             2.0                                          2.8                            2.4                         1.6
+2025_06  UNNAMED    8.0     25.0                                             3.6                                          2.6                            7.1                         2.8
+2025_07  UNNAMED    4.0     20.0                                             4.4                                          3.9                            6.2                         4.0
+2025_08  UNNAMED   17.0     30.0                                             2.7                                          2.2                            4.3                         1.0
+2025_09  UNNAMED    7.0     25.0                                             3.6                                          1.8                            4.2                         1.4
+2025_10  UNNAMED    9.0     30.0                                             2.1                                          1.4                            6.8                         1.4
+2025_11  SHAKHTI   24.0     60.0                                             7.1                                          2.0                           13.7                         1.5
+2025_12  UNNAMED   40.0     25.0                                             8.7                                          5.0                           37.1                         4.0
+2025_13  MONTHA    20.0     50.0                                             4.1                                          2.4                           13.3                         1.4
+2025_14  SENYAR    10.0     40.0                                             6.5                                          3.8                            4.9                         2.9
+2025_15  DITWAH    25.0     40.0                                             5.0                                          4.1                            7.6                         4.2
+
+Wrote C:\Users\bobbi\Desktop\CCVR\cyclone-multimodal\outputs\comparison_2025
